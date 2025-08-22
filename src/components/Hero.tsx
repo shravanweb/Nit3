@@ -2,7 +2,7 @@
 import React from 'react';
 import { ArrowRight, Sparkles, Zap } from 'lucide-react';
 import ParticleBackground1 from './ParticleBackground'; // Assuming you have a ParticleBackground component
-import Bg1 from '../components/assets/c1.jpg'; // Adjust the path as necessary
+import Bg1 from '../components/assets/c2.png'; // Adjust the path as necessary
 import { loadFull } from "tsparticles";
 const Hero = () => {
   // Particle options (customize as needed)
